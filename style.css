@@ -98,6 +98,15 @@ h5 span {
     font-weight: bold;
     font-size: 14px;
     padding: 12px;
+
+}
+
+a:hover {
+    background-color: hsl(179, 62%, 43%);
+    cursor: pointer;
+    border: 2px solid #fff;
+    transition: 0.2s;
+    
 }
 
 .card-3 {
