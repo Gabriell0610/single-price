@@ -32,6 +32,7 @@ body {
 .card-1 {
     grid-area: a;
     padding: 40px;
+    background-color: #fff;
 }
 
 .card-1 h1 {
@@ -105,7 +106,6 @@ a:hover {
     background-color: hsl(179, 62%, 43%);
     cursor: pointer;
     border: 2px solid #fff;
-    
 }
 
 .card-3 {
